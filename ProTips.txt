@@ -1,0 +1,6 @@
+Extension Method And Method Overloading
+
+- Use extension method to make code simplified
+- Use method overloading to make use of a method in a differnet ways.
+
+Prop Tips: Use the tools that make your code easier to read and quicker to develop.
